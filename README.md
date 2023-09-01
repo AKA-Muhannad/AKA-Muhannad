@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhannad Alseraye</h1>
-<h3 align="center">Mobile Application Developer | Front-End Web Developer | Blockchain Developer soon… | #Dart #Flutter #Typescript #ReactJS #Solidity</h3>
+<h3 align="center">I am Mobile Application Developer, Front-end Web Developer, and soon Blockchain Developer.</h3>
 
 - 🌱 I’m currently learning **Blockchain with Solidity**
 
