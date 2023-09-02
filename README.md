@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhannad Alseraye</h1>
 <h3 align="center">I am Mobile Application Developer, Front-end Web Developer, and soon Blockchain Developer. I am also trying to be software engineer...</h3>
 
-- 🌱 I’m currently learning **Blockchain with Solidity**
+- 🌱 I’m currently learning **Blockchain by using Solidity**
 
 - 📫 How to reach me **muhannadalseraye@gmail.com**
 
