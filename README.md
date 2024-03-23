@@ -6,7 +6,7 @@ Mobile Application Developer | Blockchain Developer soon… | #Dart #Flutter #Ty
 
 * 🌍  I'm based in KSA, Riyadh
 * ✉️  You can contact me at [muhannadalseraye@gmail.com](mailto:muhannadalseraye@gmail.com)
-* 🧠  I'm learning I’m currently learning Blockchain with Solidity
+* 🧠  I’m currently learning and working Blockchain with Solidity
 
 ### Skills
 
