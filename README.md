@@ -1,7 +1,7 @@
 Hi 👋 My name is Muhannad Alseraye
 ==================================
 
-Mobile Application Developer | Blockchain Developer soon… | #Dart #Flutter #Typescript #ReactJS #Solidity
+Mobile Application Developer | Blockchain Developer | #Dart #Flutter #Typescript #ReactJS #Solidity
 ---------------------------------------------------------------------------------------------------------
 
 * 🌍  I'm based in KSA, Riyadh
