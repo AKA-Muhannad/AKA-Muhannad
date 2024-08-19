@@ -1,4 +1,5 @@
-Hi 👋 My name is Muhannad Alseraye
+Hi 👋
+My name is Muhannad Alseraye
 ==================================
 Mobile Application Developer | Blockchain Developer | #Typescript #ReactNative #Solidity
 ---------------------------------------------------------------------------------------------------------
